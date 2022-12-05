@@ -9,9 +9,13 @@
 ## DAFTAR NILAI MENGGUNAKAN FUNGSI
 
 Fungsi - Tambah () untuk menambah data
+
 Fungsi - Tampilkan () untuk menampilkan data
+
 Fungsi - Hapus () untuk menghapus data berdasarkan nama
+
 Fungsi - Ubah () untuk mengubah data berdasarkan nama
+
 LIHAT CODE DIBAWAH INI !!!
 
 ![foto3](foto/foto3.png)
