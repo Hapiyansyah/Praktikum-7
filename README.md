@@ -1,0 +1,14 @@
+# PRAKTIKUM 7
+
+## LATIHAN 1
+
+
+
+
+
+## DAFTAR NILAI MENGGUNAKAN FUNGSI
+
+
+
+
+
