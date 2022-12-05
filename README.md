@@ -20,4 +20,4 @@ LIHAT CODE DIBAWAH INI !!!
 
 ![foto3](foto/foto3.png)
 
-![foto4](foto/foto4.png)
+![foto4](foto/foto4.jpeg)
